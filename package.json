@@ -1,0 +1,22 @@
+{
+  "name": "openai-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palkokec/openai-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palkokec/openai-playground/issues"
+  },
+  "homepage": "https://github.com/palkokec/openai-playground#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
